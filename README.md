@@ -9,7 +9,7 @@ share market information about nepali companies
 - Now, run the command `node index.js` and your nepse bot will be online.
 
 ### COMMANDS
-  ####Prefix: *!nepse*
+  #### Prefix: *!nepse*
   - ***_show (COMPANY SYMBOL)_*** : This shows the information about the particular company of that symbol
     - Example: ***_!nepse show NABIL_*** <br>
     ![This is the image showing the information about NABIL](/images/showData.jpg)
