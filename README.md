@@ -15,8 +15,8 @@ share market information about nepali companies
     [This is the image showing the information about NABIL](/images/showData.jpg)
     
   - *pp* : This shows the profile of the user.
-    - Example: *!nepse pp*
-    [This is the image showing the profile of the user](/images/pp.jpg) <br>
+    - Example: *!nepse pp* <br>
+    [This is the image showing the profile of the user](/images/pp.jpg)
     > Future use: ***It can be used to show the _portfolio_ of the user.***
     
   - *r* : This shows the rectangle outline used for showing information about the company.
